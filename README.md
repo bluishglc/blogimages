@@ -1,1 +1,1 @@
-# blogimages
+# My Blog Images Repository
